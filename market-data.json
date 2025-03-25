@@ -1,0 +1,27 @@
+{
+    "current": [
+      { "crop": "Rice", "market": "Delhi", "price": 2150, "date": "2025-03-10" },
+      { "crop": "Wheat", "market": "Haryana", "price": 1980, "date": "2025-03-10" },
+      { "crop": "Maize", "market": "Punjab", "price": 1850, "date": "2025-03-10" },
+      { "crop": "Sugarcane", "market": "UP", "price": 350, "date": "2025-03-10" },
+      { "crop": "Cotton", "market": "Gujarat", "price": 5600, "date": "2025-03-10" }
+    ],
+    "historical": {
+      "rice": [
+        { "date": "2024-10-10", "price": 1950 },
+        { "date": "2024-11-10", "price": 2000 },
+        { "date": "2024-12-10", "price": 2050 },
+        { "date": "2025-01-10", "price": 2100 },
+        { "date": "2025-02-10", "price": 2130 },
+        { "date": "2025-03-10", "price": 2150 }
+      ],
+      "wheat": [
+        { "date": "2024-10-10", "price": 1850 },
+        { "date": "2024-11-10", "price": 1880 },
+        { "date": "2024-12-10", "price": 1920 },
+        { "date": "2025-01-10", "price": 1950 },
+        { "date": "2025-02-10", "price": 1970 },
+        { "date": "2025-03-10", "price": 1980 }
+      ]
+    }
+  }
